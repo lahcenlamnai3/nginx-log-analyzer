@@ -319,7 +319,10 @@ Top 5 response status codes:
 400 - 192 requests
 "-" - 31 requests
 ```
+---
+## Project URL
 
+https://roadmap.sh/projects/nginx-log-analyser
 ---
 
 ## 📄 License
